@@ -1,0 +1,25 @@
+.btn-lewagon {
+  border-radius: 4px;
+  background-color: #de2d30;
+  color: white;
+  padding: 8px 24px;
+  text-decoration: none;
+  font-weight: bolder;
+}
+
+/* .btn-lewagon:hover {
+  background-color: #c35658;
+  box-shadow: 5px 5px 2px lightgray;
+} */
+
+.btn-medium {
+  border-radius: 25px;
+  background-color: #34a244 ;
+  color: white;
+  padding: 8px 24px;
+  text-decoration: none;
+}
+
+.btn-medium:hover {
+  background-color: #24702f;
+}
