@@ -3,10 +3,14 @@
   justify-content: space-evenly;
   color: white;
   align-items: center;
+  background-repeat: no-repeat;
   background-size: cover;
-  height: 250px;
+  background-position: center;
+  height: 200px;
+  width: 250px;
   box-shadow: 0 5px 5px rgba(0,0,0,0.3);
   text-shadow: 2px 2px 3px rgba(0,0,0,0.3);
+  border-radius: 10px;
 }
 
 .card-product {
